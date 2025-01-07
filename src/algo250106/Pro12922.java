@@ -1,6 +1,6 @@
 package algo250106;
 
-// 박
+// 수박수박수박수박수?
 public class Pro12922 {
     public String solution(int n) {
         StringBuilder sb = new StringBuilder();
