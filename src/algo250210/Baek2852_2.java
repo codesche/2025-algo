@@ -3,7 +3,7 @@ package algo250210;
 import java.io.*;
 import java.util.*;
 
-// 덱을 활용
+// NBA 농구 - 실버 3
 
 /*
 동점 상황 발생 시
