@@ -1,7 +1,6 @@
 package algo250323;
 
 import java.io.*;
-import java.math.BigInteger;
 
 // 백준 - 나머지와 몫이 같은 수 (브론즈 1)
 // N = 3 일 때, 나머지와 몫이 모두 같은 수 - 4, 8
