@@ -2,7 +2,7 @@ package algo250405;
 
 import java.io.*;
 
-// 백준 - 첫 글자를 대문자로 (브론즈 3)
+// 백준 - 첫 글자를 대문자로(브론즈 3)
 public class Baek4458 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
