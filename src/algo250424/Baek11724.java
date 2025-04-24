@@ -41,7 +41,7 @@ public class Baek11724 {
             return;
         }
         visited[v] = true;
-        for (int i : A[v]) {
+        for (int i : A[v]) {        // 연결 노드 중 방문하지 않았던 노드만 탐색
             if (!visited[i]) {
                 DFS(i);
             }
