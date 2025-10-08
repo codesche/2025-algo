@@ -3,7 +3,7 @@ package algo251008;
 import java.io.*;
 import java.util.*;
 
-// 백준 - 색종이 (실버 2), [15612 KB, 136 ms]
+// 백준 - 색종이 만들기 (실버 2), [15612 KB, 136 ms]
 
 /**
  * * 문제 요약:
