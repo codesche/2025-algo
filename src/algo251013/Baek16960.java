@@ -4,7 +4,7 @@ import java.io.*;
 import java.util.*;
 
 // 백준 - 스위치와 램프 (실버 4), [17120 KB, 160 ms]
-// 쉽게 이해 안 되는 문제
+// 쉽게 이해가 안 되는 문제
 public class Baek16960 {
 
     static int N;

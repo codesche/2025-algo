@@ -5,6 +5,7 @@ import java.util.*;
 
 // 시간: O(N + E), E = 스위치-램프 연결 총 개수
 // 공간: O(M + E)
+// 쉽게 이해가 안 되므로 반복 및 숙지 필요
 public class Baek16960_2 {
 
     static int N;
